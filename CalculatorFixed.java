@@ -15,7 +15,6 @@ public class CalculatorFixed {
         }
         return (double) a / b;
     }
-
     public static void main(String[] args) {
         // Fixed 3: Instantiated object before calling instance methods
         CalculatorFixed calc = new CalculatorFixed();
